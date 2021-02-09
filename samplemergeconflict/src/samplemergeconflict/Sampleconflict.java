@@ -3,8 +3,8 @@ package samplemergeconflict;
 public class Sampleconflict {
 public static void main(String [] args)
 {
-	int a=5;
-	int b=6;
-	System.out.println(a+b);
+	int i=5;
+	int j=6;
+	System.out.println(a*b);
 }
 }
